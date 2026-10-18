@@ -91,22 +91,13 @@ Computer Vision-based traffic analytics system that detects and tracks vehicles 
 
 ---
 
-### 🌱 AgroNex / CropShield
+### 🌱 FarmVision – Smart Farming System
 
-AI-assisted agricultural decision-support platform designed to analyze crop conditions, assess risks, provide recommendations, and support expert validation.
+AI-powered crop health monitoring and IoT-based smart irrigation system to detect crop diseases early, monitor soil conditions, and automate watering for healthier crops and efficient water usage.
 
-**Tech:** Computer Vision · Machine Learning · React · AI
-
----
-
-### 💧 Smart Irrigation System
-
-IoT-based irrigation system using environmental and soil-moisture data to monitor field conditions and automate irrigation.
-
-**Tech:** ESP32 · Soil Moisture Sensor · DHT22 · BMP085 · Blynk
+**Tech:** Python · MobileNetV3 · FastAPI · React · ESP32 · Raspberry Pi · Soil Moisture Sensor · IoT
 
 ---
-
 ## 🎯 Currently Learning
 
 * Data Structures & Algorithms
